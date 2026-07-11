@@ -1,0 +1,20 @@
+# SQLite databases and journal files
+*.db
+*.db3
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+*.sqlite-shm
+*.sqlite-wal
+
+# Windows and editor files
+Thumbs.db
+Desktop.ini
+.vscode/
+*.user
+*.suo
+
+# Temporary exports and logs
+*.log
+*.tmp
+*.bak
